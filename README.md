@@ -28,9 +28,15 @@ To use Angular, you have to download:
 
 -angular CLI for windows
 
+
 *Instructions when the project starts:
+
 First have to login with the username: "admin" and the password: "cnos"
+
 You can choose to go to the users list or to the works list.
+
 You can create a new user, then you can edit it or delete it.
-If you click on the user name, it going to send you to the user profile where there's the entire information of the user and the user works
+
+If you click on the user name, it going to send you to the user profile where there's the entire information of the user and the user works.
+
 In the works list you can create a new work, edit it and delete it.
