@@ -2,18 +2,30 @@
 It's a project that I developed in Italy, Valdocco for the students in Salesianos School.
 
 *Backend:
+
 Have IntelliJ IDEA installed to be able to open and run the server.
+
 IntelliJ IDEA Link (Community): https://www.jetbrains.com/es-es/idea/download/#section=windows
+
 Open the project in java 11
+
 In order to run the server inside Intellij IDEA go to "Run/Debug Configurations" and in the "Run" part write "bootrun".
+
 Then you just have to press the "start" icon.
 
+
 *Frontend: 
+
 First unzip the "Frontend" file,then you have to open the folder with "Visual Studio Code"
+
 Visual Studio Code link: https://code.visualstudio.com
+
 In the menu,go to Terminal and then "new Terminal",inside the terminal you have to write "npm install" to download the "node_modules" folder(without that the front doesn't work).
+
 To use Angular, you have to download:
+
 -npm for windows 
+
 -angular CLI for windows
 
 *Instructions when the project starts:
